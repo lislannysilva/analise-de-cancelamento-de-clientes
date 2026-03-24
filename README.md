@@ -13,6 +13,12 @@ O objetivo é analisar uma base de dados de clientes para entender os principais
 - Plotly
 - Jupyter Notebook (VSCode)
 
+
+## 📷 Exemplos de gráficos
+
+![Gráfico de Cancelamento](imagens/grafico1.png)
+
+![Gráfico de Ligações](imagens/grafico2.png)
 ---
 
 ## 📁 Sobre os dados
